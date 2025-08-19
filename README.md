@@ -145,4 +145,4 @@ Where:
 
 ## 8) Notes
 
-- Also linked the Python /R workflows if preferred over WEKA.
+- Can also share the Python /R workflows if preferred over WEKA.
